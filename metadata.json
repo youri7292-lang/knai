@@ -1,0 +1,6 @@
+{
+  "name": "학급 매커 - 짝 & 소그룹 매칭",
+  "description": "학생들의 짝 및 소규모 그룹 매칭을 무작위로 생성하고 이전 매칭 기록을 기반으로 중복을 최적화하는 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
